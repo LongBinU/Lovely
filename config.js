@@ -8,7 +8,7 @@ lines: [
         " co nhung luc khong hieu y nhau gian nhau",
         "nhung luc noi chuyen dua vui vu vo voi nhau ",
         "bat cu ki niem nao cung em doi voi anh deu la qui gia",
-        "Anh mong khong chi 5 thang ma ca ve sau nay deu co em",
+        "Mong rang hai ta se luon ben nhau",    " tao them nhieu ki niem nua cung nhau",
      " Happy 5 month anniversary", " LOVE YOU <3",],
     // 相爱的时间 记住格式不能写错了, 非常重要
     // 格式一定要和下面这个时间格式一样
